@@ -368,7 +368,6 @@ def _pick_url(info: dict) -> str:
     return ''
 
 
-────────────────────────────────────────────────────────────────
 
 def _best_thumb(thumbnails: list) -> str:
     if not thumbnails:
